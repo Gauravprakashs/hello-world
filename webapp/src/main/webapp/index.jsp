@@ -2,6 +2,7 @@
   <div class="container">
     <h1 color="red"> GAUARV ASIBLE COMPLETE</h1>
 	<h2> next K8s</h2>
+	<p>Do it by monday.</p>
     <h1>DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
